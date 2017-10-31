@@ -1,1 +1,1 @@
-When in doubt, read da docs: http://redux.js.org/
+## When in doubt, read da docs: http://redux.js.org/
